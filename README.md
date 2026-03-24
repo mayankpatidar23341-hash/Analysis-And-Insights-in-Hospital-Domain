@@ -1,5 +1,8 @@
 # Analysis and Insights in the Hospitality Domain
 
+
+<img width="1397" height="669" alt="Dashboard Glimpse" src="https://github.com/user-attachments/assets/ae1bbe32-03ec-4593-a453-b5b22acf9e0d" />
+
 ## Overview
 This project is a **Power BI-based hospitality analytics dashboard** designed to generate business insights from hotel booking data.  
 It focuses on analyzing booking behavior, hotel performance, room-category trends, and revenue realization across multiple hotel properties.
